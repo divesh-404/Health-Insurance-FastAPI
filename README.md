@@ -20,7 +20,7 @@ A beginner FastAPI project that calculates a customer's health insurance premium
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/Health-Insurance-FastAPI.git
+git clone https://github.com/divesh-404/Health-Insurance-FastAPI.git
 
 cd Health-Insurance-FastAPI
 
