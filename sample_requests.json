@@ -1,0 +1,10 @@
+{
+    "name": "Divesh",
+    "age": 22,
+    "height": 175,
+    "weight": 70,
+    "smoker": false,
+    "diabetic": false,
+    "exercise": true,
+    "annual_income": 900000
+}

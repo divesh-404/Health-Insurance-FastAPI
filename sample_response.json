@@ -1,0 +1,9 @@
+{
+    "name": "Divesh",
+    "age": 22,
+    "BMI": 22.86,
+    "risk_score": 0,
+    "risk": "Low",
+    "premium": 5000,
+    "eligible": true
+}
